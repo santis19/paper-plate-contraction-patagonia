@@ -1,5 +1,7 @@
 # Paper Title
 
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 by
 Author 1,
 Author 2,
@@ -66,3 +68,17 @@ coastlines are shown.
 
 Müller R.D., Seton, M., Zahirovic, S., Williams, S.E., Matthews, K.J., Wright, N.M., Shephard, G.E., Maloney, K.T., Barnett-Moore, N., Hosseinpour, M., Bower, D.J., Cannon, J., 2016. Ocean basin evolution and global-scale plate reorganization events since Pangea breakup, Annual Review of Earth and Planetary Sciences, Vol 44, 107-138. DOI: 10.1146/annurev-earth-
 
+## License
+
+Copyright (c) 2018 Guido Gianni, Santiago R. Soler. Todos los derechos 
+reservados.
+
+This work is licensed under a [Creative Commons Attribution 4.0 International 
+License][cc-by].
+
+[![CreativeCommons][cc-by-image]][cc-by]
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20SA%204.0-lightgrey.svg

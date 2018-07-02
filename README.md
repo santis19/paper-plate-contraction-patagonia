@@ -57,7 +57,7 @@ Müller et. al. (2016) Plates Rotations.
 * `data/muller_et_al_2016_v1.14/Global_EarthByte_230-0Ma_GK07_AREPS_Coastlines.gpml`:
 Müller et. al. (2016) Coastlines.
 
-* `data/ianni_et_al_2018/Gianni_et_al_230-0Ma_PlateBoundaries.gpml`:
+* `data/gianni_et_al_2018/Gianni_et_al_230-0Ma_PlateBoundaries.gpml`:
 New Plates Boundaries Model.
 
 By editing the Layers Drawing style you can change how the plates and the 

@@ -1,17 +1,17 @@
-# Paper Title
+# Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes (45°-46°30’S)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 by
-Author 1,
-Author 2,
-etc
+Guido Gianni,
+Agustina Pesce,
+Santiago Soler
 
-This paper has been submitted for publication in *Some Journal*.
+This paper has been submitted for publication in *Journal of Geodynamics*.
 
 ## Abstract
 
-abstract
+Plate kinematic reconstructions show that the Farallon-Phoenix (Aluk) spreading center subducted under South America sometime between the Late Cretaceous and the Paleogene periods. Geological studies have supported a ridge-trench interaction in Patagonia during Paleocene to Eocene times mostly based on the documentation of slab window magmatism and Andean arc-quiescence. However, a revision of most recent works dealing with the Paleogene tectonic evolution of Central Patagonia, with emphasis in a key orogenic segment between 45°S to 46°30’S, highlights inconsistencies in this model. Particularly, the existence of two discrete areas with simultaneous slab window-related magmatism separated by a sector with plate-wide contraction, along with a spatio-temporal mismatch between magmatism location and ridge kinematics, preclude a single ridge-trench interaction. With the purpose to better understand this complex tectonic setting, we integrated this updated geological evolution into a plate kinematic model. Finally, we propose that the oblique collision of a segmented Farallon-Phoenix/Aluk mid-ocean ridge would explain the latitudinally variable tectonomagmatic evolution of Patagonia during early Paleogene times.
 
 
 ## Downloading the Model

@@ -1,4 +1,4 @@
-# Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes (45°-46°30’S)
+# Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 

@@ -1,6 +1,6 @@
 # Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1311092.svg)](https://doi.org/10.5281/zenodo.1311092)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1311134.svg)](https://doi.org/10.5281/zenodo.1311134)
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 by
@@ -42,7 +42,7 @@ You can download a copy of all the files in this repository by cloning the
 or [download a zip archive](https://github.com/santis19/paper-plate-contraction-patagonia/archive/master.zip)
 
 A copy of the repository is also archived at
-DOI: [10.5281/zenodo.1311092](https://doi.org/10.5281/zenodo.1311092)
+DOI: [10.5281/zenodo.1311134](https://doi.org/10.5281/zenodo.1311134)
 
 
 ## Dependencies

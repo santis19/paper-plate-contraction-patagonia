@@ -41,7 +41,8 @@ You can download a copy of all the files in this repository by cloning the
 
 or [download a zip archive](https://github.com/santis19/paper-plate-contraction-patagonia/archive/master.zip)
 
-A copy of the repository is also archived at *insert DOI here*
+A copy of the repository is also archived at
+DOI: [10.5281/zenodo.1311092](https://doi.org/10.5281/zenodo.1311092)
 
 
 ## Dependencies

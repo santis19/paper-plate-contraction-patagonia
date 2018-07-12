@@ -1,5 +1,6 @@
 # Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1311092.svg)](https://doi.org/10.5281/zenodo.1311092)
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 by

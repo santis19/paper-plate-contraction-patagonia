@@ -8,7 +8,9 @@ by
 [Agustina Pesce](https://www.researchgate.net/profile/Agustina_Pesce),
 [Santiago Soler](https://www.github.com/santis19)
 
-This paper has been submitted for publication in Journal of Geodynamics.
+This repository contains supplementary material of the paper titled
+*Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes*,
+submitted for publication in Journal of Geodynamics.
 
 ## Abstract
 

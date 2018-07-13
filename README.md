@@ -1,6 +1,6 @@
 # Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1311134.svg)](https://doi.org/10.5281/zenodo.1311134)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1311733.svg)](https://doi.org/10.5281/zenodo.1311134)
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 by
@@ -31,6 +31,17 @@ Finally, we propose that the oblique collision of a segmented
 Farallon-Phoenix/Aluk mid-ocean ridge would explain the latitudinally variable 
 tectonomagmatic evolution of Patagonia during early Paleogene times.
 
+## How to cite
+
+If you use this model, please cite us:
+
+> Gianni, Guido, Pesce, Agustina, & Soler, Santiago R. (2018).
+> santis19/paper-plate-contraction-patagonia: Plate Boundaries Model Version 1.1 (Version v1.1)
+> [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1311733](http://doi.org/10.5281/zenodo.1311733)
+
+For BibTeX and other citation formats visit
+[http://doi.org/10.5281/zenodo.1311733](http://doi.org/10.5281/zenodo.1311733)
+
 
 ## Downloading the Model
 
@@ -42,7 +53,7 @@ You can download a copy of all the files in this repository by cloning the
 or [download a zip archive](https://github.com/santis19/paper-plate-contraction-patagonia/archive/master.zip)
 
 A copy of the repository is also archived at
-DOI: [10.5281/zenodo.1311134](https://doi.org/10.5281/zenodo.1311134)
+DOI: [10.5281/zenodo.1311733](https://doi.org/10.5281/zenodo.1311733)
 
 
 ## Dependencies

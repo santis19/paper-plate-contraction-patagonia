@@ -6,7 +6,7 @@
 by
 [Guido Gianni](https://www.researchgate.net/profile/Guido_Gianni),
 [Agustina Pesce](https://www.researchgate.net/profile/Agustina_Pesce),
-[Santiago Soler](https://www.github.com/santis19)
+[Santiago Soler](https://www.github.com/santisoler)
 
 This repository contains supplementary material of the paper titled
 *Transient plate contraction between two simultaneous slab windows: Insights from Paleogene tectonics of the Patagonian Andes*,
@@ -38,7 +38,7 @@ tectonomagmatic evolution of Patagonia during early Paleogene times.
 If you use this model, please cite us:
 
 > Gianni, Guido, Pesce, Agustina, & Soler, Santiago R. (2018).
-> santis19/paper-plate-contraction-patagonia: Plate Boundaries Model Version 1.1 (Version v1.1)
+> santisoler/paper-plate-contraction-patagonia: Plate Boundaries Model Version 1.1 (Version v1.1)
 > [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.1311733](http://doi.org/10.5281/zenodo.1311733)
 
 For BibTeX and other citation formats visit
@@ -50,9 +50,9 @@ For BibTeX and other citation formats visit
 You can download a copy of all the files in this repository by cloning the 
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/santis19/paper-plate-contraction-patagonia.git
+    git clone https://github.com/santisoler/paper-plate-contraction-patagonia.git
 
-or [download a zip archive](https://github.com/santis19/paper-plate-contraction-patagonia/archive/master.zip)
+or [download a zip archive](https://github.com/santisoler/paper-plate-contraction-patagonia/archive/master.zip)
 
 A copy of the repository is also archived at
 DOI: [10.5281/zenodo.1311733](https://doi.org/10.5281/zenodo.1311733)
